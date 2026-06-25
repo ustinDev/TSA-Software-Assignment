@@ -1,2 +1,2 @@
-# TS-Academy-Software-Assignment
+# TSA-Software-Assignment
 Assignments related to Software Development with TS Academy 
